@@ -37,12 +37,9 @@ Here are some ideas to get you started:
 Hey there! I'm **Sathyanand S**, but around the digital block, I go by **[sathyarsk2027](https://github.com/sathyarsk2027)** 🚀  
 I'm currently pursuing my **B.Tech in Computer and Communication Engineering** at *Amrita Vishwa Vidyapeetham, Chennai*.
 
-- 💡 **Passion & Focus**: I'm deeply passionate about **Distributed Systems, Scalable Backends, AI & Vector Retrieval (RAG), and Cloud Architecture** — whether it's optimizing microservice pipelines or architecting fault-tolerant APIs.
-- 🔬 **Undergraduate Researcher**: Primary author of a 7-page IEEE-standard research paper on multi-plane situational risk intelligence, vector indexing (`pgvector`), and real-time semantic analysis.
+- 💡 **Passion & Focus**: I'm deeply passionate about **Scalable Backends, AI & Vector Retrieval (RAG), and Cloud Architecture** — whether it's optimizing microservice pipelines or architecting fault-tolerant APIs.
 - 🛠️ **Engineering Mindset**: Strong foundation in modern **Java (Spring Boot)**, **Python (FastAPI)**, and **C/C++**, paired with hands-on expertise in cloud databases, embedded systems, and containerized deployments.
 - 💬 **When I'm not writing high-concurrency microservices or tuning vector embeddings, I'm**:
-  - ⚡ Prototyping IoT hardware & embedded telemetry systems (ESP32 / Arduino)
-  - 📚 Reading papers on distributed systems & modern database engines
   - 🧩 Solving algorithmic puzzles & competitive programming problems
   - ☕ Exploring bleeding-edge developer tooling and open-source stacks
 
@@ -55,7 +52,6 @@ I'm currently pursuing my **B.Tech in Computer and Communication Engineering** a
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -111,9 +107,6 @@ I'm currently pursuing my **B.Tech in Computer and Communication Engineering** a
 
 - 🏛️ **B.Tech in Computer and Communication Engineering**  
   *Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Chennai* (2023 – 2027)
-- 📝 **Research Publication Package**:  
-  *Supply Chain Risk Monitor: Multi-Plane Situational Intelligence and Semantic Threat Detection*  
-  Format: IEEE standard (`IEEEtran`), 7 pages. Primary Author: Sathyanand S (Advisor: Dr. Thenmozhi V).
 
 ---
 
