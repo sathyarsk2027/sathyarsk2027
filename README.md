@@ -38,7 +38,7 @@ Hey there! I'm **Sathyanand S**, but around the digital block, I go by **[sathya
 I'm currently pursuing my **B.Tech in Computer and Communication Engineering** at *Amrita Vishwa Vidyapeetham, Chennai*.
 
 - 💡 **Passion & Focus**: I'm deeply passionate about **Scalable Backends, AI & Vector Retrieval (RAG), and Cloud Architecture** — whether it's optimizing microservice pipelines or architecting fault-tolerant APIs.
-- 🛠️ **Engineering Mindset**: Strong foundation in modern **Java (Spring Boot)**, **Python (FastAPI)**, and **C/C++**, paired with hands-on expertise in cloud databases, embedded systems, and containerized deployments.
+- 🛠️ **Engineering Mindset**: Strong foundation in modern **Java (Spring Boot)**, **Python (FastAPI)**, and **C**, paired with hands-on expertise in cloud databases, and containerized deployments.
 - 💬 **When I'm not writing high-concurrency microservices or tuning vector embeddings, I'm**:
   - 🧩 Solving algorithmic puzzles & competitive programming problems
   - ☕ Exploring bleeding-edge developer tooling and open-source stacks
