@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- ======================================================== -->
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&vCenter=true&random=false&width=620&lines=Hi+there%2C+I'm+Sathyanand+S+👋;Full-Stack+%26+Engineer;AI+%26+Vector+Retrieval+(RAG)+Architect;B.Tech+in+Computer+%26+Communication+Eng" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&vCenter=true&random=false&width=620&lines=Hi+there%2C+I'm+Sathyanand+S+👋;Full-Stack+Engineer;AI+%26+Vector+Retrieval+(RAG)+Architect;B.Tech+in+Computer+%26+Communication+Eng" alt="Typing SVG" />
 </h1>
 
 <p align="left">
