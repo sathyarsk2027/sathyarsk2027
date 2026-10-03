@@ -90,16 +90,6 @@ I'm currently pursuing my **B.Tech in Computer and Communication Engineering** a
 
 ---
 
-## 📊 GitHub Analytics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathyarsk2027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathyarsk2027&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyarsk2027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="60%" />
-</p>
 
 ---
 
