@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <!-- Tailored with STAR Framework & Modern Dark-Mode Aesthetics -->
 <!-- ======================================================== -->
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&vCenter=true&random=false&width=620&lines=Hi+there%2C+I'm+Sathyanand+S+👋;Full-Stack+Engineer+with+ ;AI+%26+Vector+Retrieval+(RAG)+Architect;B.Tech+in+Computer+%26+Communication+Eng" alt="Typing SVG" />
-</h1>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&vCenter=true&random=false&width=620&lines=Full-Stack+%26+Engineer;AI+%26+Vector+Retrieval+(RAG)+Architect;B.Tech+in+Computer+%26+Communication+Eng;Building+Scalable+Cloud+Pipelines" alt="Typing SVG" />
+</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/sathyanand-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
